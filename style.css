@@ -1,0 +1,27 @@
+html, body {
+    height: 100%;
+}
+
+.container {
+    right: 50%;
+    bottom: 50%;
+    transform: translate(50%,50%);
+    position: absolute;
+}
+
+.container > .header {
+    vertical-align: middle;
+    font-size: 12vw;
+    color: #00d353;
+    font-family: 'Roboto Flex', serif;
+    font-weight: 100;
+}
+
+.container > .subheader {
+    vertical-align: middle;
+    font-size: 2vw;
+    text-align:center;
+    margin: 10px;
+    font-family: 'Roboto Flex', serif;
+    font-weight: 100;
+}
