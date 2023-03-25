@@ -20,6 +20,7 @@ html, body {
 .container > .subheader {
     vertical-align: middle;
     font-size: 2vw;
+    color: #029c3f;
     text-align:center;
     margin: 10px;
     font-family: 'Roboto Flex', serif;
